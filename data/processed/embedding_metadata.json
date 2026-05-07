@@ -1,0 +1,8 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "collection_name": "jailbreak_patterns",
+  "distance_metric": "cosine",
+  "qdrant_host": "localhost",
+  "qdrant_port": 6333
+}

@@ -1,0 +1,19 @@
+{
+  "total_prompts": 1053,
+  "jailbreak_count": 993,
+  "safe_count": 60,
+  "train_size": 842,
+  "test_size": 211,
+  "sources": {
+    "AdvBench": 509,
+    "HarmBench": 384,
+    "JailbreakBench": 100,
+    "Generated": 60
+  },
+  "attack_types": {
+    "jailbreak": 983,
+    "none": 60,
+    "harassment": 10
+  },
+  "original_dataset": "JailbreakBench unified_bench"
+}
