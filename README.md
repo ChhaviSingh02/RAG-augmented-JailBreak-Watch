@@ -278,7 +278,10 @@ Actual Safe      5     8
 
 ### Step 1: Clone Repository
 
-
+```bash
+git clone https://github.com/ChhaviSingh02/RAG-augmented-JailBreak-Watch.git
+cd RAG-augmented-JailBreak-Watch
+```
 
 ### Step 2: Python Environment
 
